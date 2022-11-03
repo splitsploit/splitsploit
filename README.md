@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**splitsploit/splitsploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Bayu Cakra Aditya or commonly known as SplitSploit
 
-Here are some ideas to get you started:
+People who loved about IT and sharing about that. I'm also Leader at community based in Jogja, named JogjaXploit
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
