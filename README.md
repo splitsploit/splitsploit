@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bayu Cakra Aditya</h1>
+<h1 align="center">Hi There 👋</h1>
 <h3 align="center">Hello, my name is Bayu Cakra Aditya or commonly known as SplitSploit People who loved about IT and sharing about that. I'm also Leader at community based in Jogja, named JogjaXploit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=splitsploit&label=Profile%20views&color=0e75b6&style=flat" alt="splitsploit" /> </p>
