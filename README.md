@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**
 
-- 🌱 I’m currently learning **Understanding myself**
+- 🌱 My currently tech stack **Web Developers | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast**
 
-- 🤝 I’m looking for help with **UI/UX Designer & Web Developer**
+- 🤝 I’m looking partners with **UI/UX Designer & Web Developer**
 
-- 📝 I regularly write articles on [comingsoon](comingsoon)
+- 📝 I regularly write articles on ..
 
 - 💬 Ask me about **Anything**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my bio profile [byby.my.id](byby.my.id)
 
-- ⚡ Fun fact **Im breathing**
+- ⚡ Fun fact **I dont have girlfriend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
