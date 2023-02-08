@@ -1,6 +1,3 @@
-<h1 align="center">Hi There 👋</h1>
-<h3 align="center">Hello, my name is Bayu Cakra Aditya or commonly known as SplitSploit People who loved about IT and sharing about that. Lets discuss and build something great together</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=splitsploit&label=Profile%20views&color=0e75b6&style=flat" alt="splitsploit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splitsploit" alt="splitsploit" /></a> </p>
