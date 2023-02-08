@@ -6,7 +6,7 @@
 
 - 🌱 My currently tech stack **Web Developers | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast**
 
-- 🤝 I’m looking partners with **UI/UX Designer & Web Developer**
+- 🤝 I’m looking partners with ** UI/UX Designer & Mobile Developers ( Kotlin / Flutter )**
 
 - 📝 I regularly write articles on ..
 
