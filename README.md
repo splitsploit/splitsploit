@@ -4,19 +4,19 @@
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**
 
-- 🌱 My currently tech stack **Web Developers | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast**
+- 🌱 My currently tech stack **Web Developers | Junior Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast**
 
 - 🤝 I’m looking partners with **UI/UX Designer & Mobile Developers ( Kotlin / Flutter )**
 
 - 📝 I regularly write articles on ..
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Human / Project Management & Web/Apps/Mobile Development**
 
 - 📫 How to reach me **bayuxbca@gmail.com**
 
 - 📄 Know about my bio profile [byby.my.id](byby.my.id)
 
-- ⚡ Fun fact **I dont have girlfriend**
+- ⚡ Fun fact **I Can Be Ur BF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
