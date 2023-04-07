@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**
 
-- 🌱 My currently tech stack **Web Developer | Junior Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native )**
+- 🌱 My currently tech stack **Web Developer | Junior Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native ) | Content Creator**
 
 - 🤝 I’m looking partners with **UI/UX Designer & Mobile Developers ( Kotlin / Flutter )**
 
