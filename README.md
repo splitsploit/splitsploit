@@ -16,7 +16,7 @@
 
 - 📄 Know about my bio profile [byby.my.id](byby.my.id)
 
-- ⚡ Fun fact **I Can Be Ur BF**
+- ⚡ Fun fact **Her Smile is The Key**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
