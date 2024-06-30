@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=splitsploit&label=Profile%20views&color=0e75b6&style=flat" alt="splitsploit" /> </p>
 
-<h5>Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy*</h5>
+Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy*
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**, also i'm an Founder & CEO at **XETUP**
 
