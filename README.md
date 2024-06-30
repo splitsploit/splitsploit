@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**, also i'm an Founder & CEO at **XETUP**
 
-- 🌱 My currently tech stack **Web Developer | Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native ) | Content Creator | Founder & CEO | Junior UI / UX Designer | IT Scientist | Junior Pentester**
+- 🌱 My currently role & specialities **Web Developer | Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native ) | Content Creator | Founder & CEO | Junior UI / UX Designer | IT Scientist | Junior Pentester | Senior Wordpress Developer | Teacher in IT Course/ Bootcamp**
 
 - 📝 I regularly write articles on https://xetup.id
 
 - 📫 How to reach me **bayuxbca@gmail.com**
 
-- ⚡ Fun fact **Her Smile is The Key**
+- ⚡ Can i help you? ask and feel free to discuss all about IT with me. **I'm also open for work or project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
