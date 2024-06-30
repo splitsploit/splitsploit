@@ -2,19 +2,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splitsploit" alt="splitsploit" /></a> </p>
 
-- 🔭 I’m currently working on **PT Loh Jinawi Teknologi**
+- 🔭 I’m currently working on **PT Loh Jinawi Teknologi**, also i'm an Founder & CEO at **XETUP**
 
-- 🌱 My currently tech stack **Web Developer | Junior Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native ) | Content Creator**
+- 🌱 My currently tech stack **Web Developer | Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native ) | Content Creator | Founder & CEO | Junior UI / UX Designer | IT Scientist | Junior Pentester**
 
-- 🤝 I’m looking partners with **UI/UX Designer & Mobile Developers ( Kotlin / Flutter )**
-
-- 📝 I regularly write articles on ..
-
-- 💬 Ask me about **Human / Project Management & Web/Apps/Mobile Development**
+- 📝 I regularly write articles on https://xetup.id
 
 - 📫 How to reach me **bayuxbca@gmail.com**
-
-- 📄 Know about my bio profile [byby.my.id](byby.my.id)
 
 - ⚡ Fun fact **Her Smile is The Key**
 
