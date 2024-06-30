@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=splitsploit&label=Profile%20views&color=0e75b6&style=flat" alt="splitsploit" /> </p>
 
-Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy*
+<h1>Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy*</h1>
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**, also i'm an Founder & CEO at **XETUP**
 
@@ -8,7 +8,7 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 - 📝 I regularly write articles on https://xetup.id
 
-- 📫 How to reach me **bayuxbca@gmail.com**
+- 📫 Reach / contact me at **bayuxbca@gmail.com** or **+62-822-6515-7644 ( Whatsapp Only )**
 
 - ⚡ Can i help you? ask and feel free to discuss all about IT with me. **I'm also open for work or project**
 
