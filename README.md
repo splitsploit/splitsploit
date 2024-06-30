@@ -10,7 +10,7 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 - 📫 Reach / contact me at **bayuxbca@gmail.com** or **+62-822-6515-7644 ( Whatsapp Only )**
 
-- ⚡ Can i help you? ask and feel free to discuss all about IT with me. **I'm also open for work or project**
+- ⚡ Need an help? ask and feel free to discuss all about IT with me. **I'm also open for work or project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
