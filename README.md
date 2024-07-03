@@ -25,6 +25,4 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splitsploit&show_icons=true&locale=en&layout=compact" alt="splitsploit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=splitsploit&show_icons=true&locale=en" alt="splitsploit" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=splitsploit&" alt="splitsploit" /></p>
