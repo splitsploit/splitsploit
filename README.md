@@ -6,32 +6,20 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 ## My Currently Roles & Specialties
 
-| **Roles & Specialties**              |
-|--------------------------------------|
-| Web Developer                        |
-| Software Engineer                    |
-| SEO Specialist                       |
-| Cyber Security Forensics             |
-| Hackthebox Enthusiast                |
-| Project Manager                      |
-| Mobile Developer (React Native)      |
-| Content Creator                      |
-| Founder & CEO                        |
-| UI/UX Designer                       |
-| IT Scientist                         |
-| Pentester                            |
-| WordPress Developer                  |
-| Teacher in IT Course/Bootcamp        |
-| DevOps                               |
-| Digital Marketer                     |
-| Public Speaker                       |
-| Business Development                 |
-| IT Consultant                        |
-| UX Researcher                        |
-| Public Relations Specialist          |
-| Product Manager                      |
-| Scrum Master                         |
-| Prompt Engineering                         |
+| **Roles & Specialties**              |                                        |
+|--------------------------------------|----------------------------------------|
+| Web Developer                        | IT Scientist                           |
+| Software Engineer                    | Pentester                              |
+| SEO Specialist                       | WordPress Developer                    |
+| Cyber Security Forensics             | Teacher in IT Course/Bootcamp          |
+| Hackthebox Enthusiast                | DevOps                                 |
+| Project Manager                      | Digital Marketer                       |
+| Mobile Developer (React Native)      | Public Speaker                         |
+| Content Creator                      | Business Development                   |
+| Founder & CEO                        | IT Consultant                          |
+| UI/UX Designer                       | UX Researcher                          |
+| Public Relations Specialist          | Scrum Master                           |
+| Training and Development Specialist  | Prompt Engineering                     |
 
 - 📝 I regularly write articles on https://xetup.id
 
