@@ -4,7 +4,34 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 - 🔭 I’m currently working on **PT Loh Jinawi Teknologi**, also i'm an Founder & CEO at **PT XETUP SOLUSI TEKNOLOGI**, **JogjaXploit**, and **XetiapHari.id**
 
-- 🌱 My currently role & specialities are **Web Developer | Software Engineer | SEO Specialist | Cyber Security Forensics | Hackthebox Enthusiast | Project Manager | Newbies Mobile Developer ( React Native ) | Content Creator | Founder & CEO | Junior UI / UX Designer | IT Scientist | Junior Pentester | Senior Wordpress Developer | Teacher in IT Course/ Bootcamp | SEO Content Writer | Junior DevOps | Speaker | Digital Marketer | Business Development | IT Consultant | Junior UX Researcher | Public Relations Specialist | Product Manager | IT Trainer | Scrum Master**
+## My Currently Roles & Specialties
+
+| **Roles & Specialties**              |
+|--------------------------------------|
+| Web Developer                        |
+| Software Engineer                    |
+| SEO Specialist                       |
+| Cyber Security Forensics             |
+| Hackthebox Enthusiast                |
+| Project Manager                      |
+| Mobile Developer (React Native)      |
+| Content Creator                      |
+| Founder & CEO                        |
+| UI/UX Designer                       |
+| IT Scientist                         |
+| Pentester                            |
+| WordPress Developer                  |
+| Teacher in IT Course/Bootcamp        |
+| DevOps                               |
+| Digital Marketer                     |
+| Public Speaker                       |
+| Business Development                 |
+| IT Consultant                        |
+| UX Researcher                        |
+| Public Relations Specialist          |
+| Product Manager                      |
+| Scrum Master                         |
+| Prompt Engineering                         |
 
 - 📝 I regularly write articles on https://xetup.id
 
