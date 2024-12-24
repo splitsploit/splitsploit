@@ -9,7 +9,7 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 | **Roles & Specialties**              |                                        |
 |--------------------------------------|----------------------------------------|
 | Web Developer                        | IT Scientist                           |
-| Software Engineer                    | Junior Pentester                       |
+| Software Engineer                    | Penetration Tester                     |
 | SEO Specialist                       | WordPress Developer                    |
 | Cyber Security Forensics             | Teacher in IT Course/Bootcamp          |
 | Hackthebox Enthusiast                | Junior DevOps                          |
