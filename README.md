@@ -2,8 +2,6 @@
 
 Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy*
 
-- 🔭 I’m currently building & working on **PT XETUP SOLUSI TEKNOLOGI** as Founder & CEO 
-
 ## My Currently Roles & Specialties
 
 | **Roles & Specialties**              |                                        |
