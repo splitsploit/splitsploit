@@ -4,24 +4,26 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 ## My Currently Roles & Specialties
 
-| **Roles & Specialties**              |                                        |
+| **Roles & Specialties**                                                       |
 |--------------------------------------|----------------------------------------|
+| 8x Venture Builder                   | CEO                                    |
 | Web Developer                        | IT Scientist                           |
 | Software Engineer                    | Penetration Tester                     |
 | SEO Specialist                       | WordPress Developer                    |
 | Cyber Security Forensics             | Teacher in IT Course/Bootcamp          |
-| Hackthebox Enthusiast                | Junior DevOps                          |
+| Hackthebox Enthusiast                | DevOps                                 |
 | Project Manager                      | Digital Marketer                       |
-| Newbies Mobile Developer (React Native)      | Public Speaker                 |
+| Mobile Developer                     | Public Speaker                         |
 | Content Creator                      | Business Development                   |
 | Product Manager                      | IT Consultant                          |
-| Junior UI/UX Designer                | UX Researcher                          |
+| UI/UX Designer                       | UX Researcher                          |
 | Public Relations Specialist          | Scrum Master                           |
 | Training and Development Specialist  | Prompt Engineering                     |
+| AI Engineering & Researchers         | Architect Builder                      |
 
 - 📝 I regularly write articles on https://xetup.id
 
-- 📫 Reach / contact me at **bayuxbca@gmail.com** or **+62-822-6515-7644 ( Whatsapp Only )**
+- 📫 Reach / contact me at **bayuxbca@gmail.com** or **bayu@xetup.id**
 
 - ⚡ Need an help? ask and feel free to discuss all about IT with me. **I'm also open for work or project**
 
