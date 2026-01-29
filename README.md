@@ -4,7 +4,7 @@ Hello, my name is **Bayu Cakra Aditya**, usually known as *SplitSploit* or *Byyy
 
 ## My Currently Roles & Specialties
 
-| **Roles & Specialties**                                                       |
+| **Roles & Specialties**              |                                        |
 |--------------------------------------|----------------------------------------|
 | 8x Venture Builder                   | CEO                                    |
 | Web Developer                        | IT Scientist                           |
