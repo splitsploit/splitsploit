@@ -1,74 +1,47 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=splitsploit&label=Profile%20views&color=0e75b6&style=flat" alt="splitsploit" />
+  <img src="https://komarev.com/ghpvc/?username=splitsploit&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 # Bayu Cakra Aditya  
-**Founder & CEO | Technical Executive**
+**Founder & CEO**
 
-Founder-led executive with strong hands-on background in software engineering, system architecture, and technology-driven business execution.
+Tech-driven executive with **8+ years of experience**, **8× venture builder**, and **530+ global certifications** across technology, management, and digital transformation.  
+Focused on building **scalable digital products**, leading **R&D initiatives**, and accelerating **AI & automation adoption** across industries.
 
 ---
 
-## 🧭 Leadership Focus
+## Executive Expertise
 
-| Area | Scope |
+| Domain | Scope |
 |------|------|
-| Strategy | Company & product vision |
-| Execution | Engineering & delivery leadership |
-| Technology | Architecture & technical direction |
+| Leadership | Company, product & technology vision |
+| Execution | Engineering, delivery & R&D leadership |
+| Technology | Software engineering & system architecture |
+| Strategy | Digital transformation & AI adoption |
+| Business | Venture building, consulting & bizdev |
 | Management | Project, product & team leadership |
-| Business | Venture building & consulting |
+| Security | Cyber security & risk-aware engineering |
 
 ---
 
-## 🛠️ Technical Stack (Hands-on)
+## Professional Focus
 
-| Category | Technologies |
-|--------|-------------|
-| Core | Docker, Linux, Git, CI/CD |
-| Backend | Node.js, Express, Laravel, Golang |
-| Languages | TypeScript, JavaScript, PHP, SQL |
-| Database | PostgreSQL, MySQL, MongoDB |
-| Architecture | REST API, System Design |
-| Cloud | VPS, Heroku |
-| Security | Secure Coding, OWASP, Web Security |
+- Founder-led technology execution
+- Engineering-driven product development
+- Business growth through digital innovation
+- AI-enabled systems and automation
+- Secure, scalable, and sustainable architectures
 
 ---
 
-## 🎓 Experience Snapshot
+## Contact
+📧 **bayuxbca@gmail.com**  
+📧 **bayu@xetup.id**  
+📝 https://xetup.id  
 
-| Domain | Coverage |
-|------|---------|
-| Role | Founder & CEO (8× Venture Builder) |
-| Engineering | Software Engineer & Architect |
-| Management | Project Manager, Scrum Master |
-| Advanced | Cyber Security, AI, Prompt Engineering |
-| Education | Instructor, Mentor, Public Speaker |
+Open for **advisory, executive consulting, and strategic collaboration**.
 
 ---
-
-## ✍️ Writing & Contact
-
-- 📝 https://xetup.id  
-- 📧 **bayuxbca@gmail.com**  
-- 📧 **bayu@xetup.id**  
-
-Open for **collaboration, advisory, consulting, and strategic projects**.
-
----
-
-## 🌐 Connect
-<p align="left">
-  <a href="https://linkedin.com/in/splitsploit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="36"/>
-  </a>
-  <a href="https://instagram.com/splitsploit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="36"/>
-  </a>
-  <a href="https://www.youtube.com/c/jogjaxploit" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="28" width="36"/>
-  </a>
-</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splitsploit&layout=compact" />
