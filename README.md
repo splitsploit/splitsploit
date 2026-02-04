@@ -42,10 +42,3 @@ Focused on building **scalable digital products**, leading **R&D initiatives**, 
 Open for **advisory, executive consulting, and strategic collaboration**.
 
 ---
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splitsploit&layout=compact" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=splitsploit" />
-</p>
