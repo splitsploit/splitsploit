@@ -5,7 +5,7 @@
 # Bayu Cakra Aditya  
 **Founder & CEO**
 
-Tech-driven executive with **8+ years of experience**, **8× venture builder**, and **530+ global certifications** across technology, management, and digital transformation.  
+Tech-driven executive with **8+ years of experience**, **8× venture builder**, and **700+ global certifications** across technology, management, and digital transformation.  
 Focused on building **scalable digital products**, leading **R&D initiatives**, and accelerating **AI & automation adoption** across industries.
 
 ---
