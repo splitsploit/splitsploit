@@ -5,8 +5,11 @@
 # Bayu Cakra Aditya  
 **Founder & CEO**
 
-Tech-driven executive with **8+ years of experience**, **8× venture builder**, and **700+ global certifications** across technology, management, and digital transformation.  
-Focused on building **scalable digital products**, leading **R&D initiatives**, and accelerating **AI & automation adoption** across industries.
+Bayu is a strategic leader, multi-industry founder, and high-growth technologist with over 15 years of experience building businesses from the ground up. As the Founder & CEO of XETUP, Bayu’s core strength lies in bridging complex technological capabilities with high-level business vision.
+
+Bayu thrives on velocity, adaptability, and continuous mastery. Having founded 9 ventures and earned over 700 professional industry certifications, Bayu approaches business with a unique hyper-learner mindset. Bayu is engineered to break down industries rapidly, dissect complex operational bottlenecks, and architect scalable digital ecosystems that drive real enterprise value.
+
+Connect with Bayu to discuss market-leading custom software development, strategic technology consulting, or enterprise digital transformation.
 
 ---
 
